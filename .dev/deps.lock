@@ -1,10 +1,10 @@
 # Dependencies Lock File
 # Auto-generated - do not edit manually
-# Updated: 2026-02-19 10:41:51
+# Updated: 2026-02-19 10:41:52
 
 express@4.27.1
   resolved: https://registry.npm/express/-/express-4.27.1.tgz
-  integrity: sha512-I1ECKw0h6Jzp0GdyMGuh
+  integrity: sha512-zCq9G96WVMeIQ9jko2Wv
 
 lodash@4.17.25
   resolved: https://registry.npm/lodash/-/lodash-4.17.25.tgz
@@ -12,5 +12,5 @@ lodash@4.17.25
 pg@8.11.1
   resolved: https://registry.npm/pg/-/pg-8.11.1.tgz
 
-redis@4.5.1
-  resolved: https://registry.npm/redis/-/redis-4.5.1.tgz
+redis@4.6.1
+  resolved: https://registry.npm/redis/-/redis-4.6.1.tgz
