@@ -1,6 +1,6 @@
 # Changelog
 
-## [433.5.3] - 2026-02-19
+## [443.5.4] - 2026-02-19
 
 ### Added
 - Enhanced search with filters
