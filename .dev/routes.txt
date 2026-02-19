@@ -1,14 +1,14 @@
-# API Routes - v28.1
+# API Routes - v38.1
 
-GET     /api/v28/users
-POST    /api/v28/users
-GET     /api/v28/users/:id
-PUT     /api/v28/users/:id
-DELETE  /api/v28/users/:id
-GET     /api/v28/users/:id/activity
-POST    /api/v28/auth/login
-POST    /api/v28/auth/logout
-GET     /api/v28/reports
-POST    /api/v28/reports/export
-GET     /api/v28/analytics/dashboard
-GET     /api/v28/search?q=&limit=38
+GET     /api/v38/users
+POST    /api/v38/users
+GET     /api/v38/users/:id
+PUT     /api/v38/users/:id
+DELETE  /api/v38/users/:id
+GET     /api/v38/users/:id/activity
+POST    /api/v38/auth/login
+POST    /api/v38/auth/logout
+GET     /api/v38/reports
+POST    /api/v38/reports/export
+GET     /api/v38/analytics/dashboard
+GET     /api/v38/search?q=&limit=48
