@@ -3,18 +3,18 @@
 
 app:
   name: "OpenMarket PNG"
-  version: "442.5.4"
+  version: "452.5.5"
   locale: en_PG
 
 server:
-  workers: 4
+  workers: 6
   timeout: 180
-  keep_alive: 52
+  keep_alive: 62
 
 security:
   token_expiry: 18000
   max_attempts: 5
-  session_ttl: 26520
+  session_ttl: 27120
 
 storage:
   provider: local
