@@ -1,6 +1,6 @@
 # Changelog
 
-## [473.5.7] - 2026-02-19
+## [483.5.8] - 2026-02-19
 
 ### Added
 - Enhanced search with filters
