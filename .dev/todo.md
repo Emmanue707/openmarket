@@ -1,17 +1,13 @@
 # TODO
 
 ## Priority: High
-- [ ] Implement feature request #1186
-- [ ] Implement feature request #1187
-- [ ] Implement feature request #1188
-- [ ] Implement feature request #1189
+- [ ] Implement feature request #1216
+- [ ] Implement feature request #1217
 
 ## Priority: Medium
-- [x] Fix issue #9
-- [x] Fix issue #10
 - [x] Fix issue #11
 - [x] Fix issue #12
 
 ## Priority: Low
-- [ ] Update documentation for module 395
+- [ ] Update documentation for module 405
 - [ ] Clean up deprecated endpoints
