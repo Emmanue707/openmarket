@@ -1,15 +1,15 @@
 {
-  "version": "81.1.8",
+  "version": "91.1.9",
   "environment": "production",
   "port": 3001,
   "database": {
     "host": "localhost",
     "port": 5432,
-    "pool_size": 6
+    "pool_size": 16
   },
   "cache": {
     "ttl": 60,
-    "max_entries": 8100
+    "max_entries": 9100
   },
   "features": {
     "enable_notifications": false,
@@ -17,7 +17,7 @@
     "max_upload_size": "6MB"
   },
   "logging": {
-    "level": "debug",
+    "level": "info",
     "format": "json"
   }
 }
