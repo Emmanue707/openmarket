@@ -1,14 +1,14 @@
-# API Routes - v188.2
+# API Routes - v198.2
 
-GET     /api/v188/users
-POST    /api/v188/users
-GET     /api/v188/users/:id
-PUT     /api/v188/users/:id
-DELETE  /api/v188/users/:id
-GET     /api/v188/users/:id/activity
-POST    /api/v188/auth/login
-POST    /api/v188/auth/logout
-GET     /api/v188/reports
-POST    /api/v188/reports/export
-GET     /api/v188/analytics/dashboard
-GET     /api/v188/search?q=&limit=48
+GET     /api/v198/users
+POST    /api/v198/users
+GET     /api/v198/users/:id
+PUT     /api/v198/users/:id
+DELETE  /api/v198/users/:id
+GET     /api/v198/users/:id/activity
+POST    /api/v198/auth/login
+POST    /api/v198/auth/logout
+GET     /api/v198/reports
+POST    /api/v198/reports/export
+GET     /api/v198/analytics/dashboard
+GET     /api/v198/search?q=&limit=58
