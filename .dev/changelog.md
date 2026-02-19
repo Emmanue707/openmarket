@@ -1,18 +1,3 @@
-# Changelog
-
-## [493.5.9] - 2026-02-19
-
-### Added
-- Enhanced search with filters
-- User activity dashboard
-- Export reports to PDF
-
-### Fixed
-- Session handling for concurrent users
-- Date formatting in reports
-- File upload size validation
-
-### Changed
-- Improved query performance
-- Updated authentication flow
-- Refactored middleware pipeline
+# Migrated to main project structure - 2026-02-19 10:46:14
+# This file is no longer needed
+# See commit 0003 for migration details
