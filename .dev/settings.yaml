@@ -1,0 +1,25 @@
+# Application Settings
+# Last updated: 2026-02-20
+
+app:
+  name: "OpenMarket PNG"
+  version: "2.1.0"
+  locale: en_PG
+
+server:
+  workers: 4
+  timeout: 60
+  keep_alive: 32
+
+security:
+  token_expiry: 3600
+  max_attempts: 5
+  session_ttl: 120
+
+storage:
+  provider: local
+  max_size: 11
+  allowed_types:
+    - image/png
+    - image/jpeg
+    - application/pdf
