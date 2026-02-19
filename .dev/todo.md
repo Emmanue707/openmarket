@@ -1,16 +1,15 @@
 # TODO
 
 ## Priority: High
-- [ ] Implement feature request #706
-- [ ] Implement feature request #707
-- [ ] Implement feature request #708
+- [ ] Implement feature request #736
+- [ ] Implement feature request #737
+- [ ] Implement feature request #738
+- [ ] Implement feature request #739
 
 ## Priority: Medium
 - [x] Fix issue #7
 - [x] Fix issue #8
-- [x] Fix issue #9
-- [x] Fix issue #10
 
 ## Priority: Low
-- [ ] Update documentation for module 235
+- [ ] Update documentation for module 245
 - [ ] Clean up deprecated endpoints
