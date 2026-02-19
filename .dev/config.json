@@ -1,20 +1,20 @@
 {
-  "version": "391.4.9",
+  "version": "401.5.0",
   "environment": "production",
   "port": 3001,
   "database": {
     "host": "localhost",
     "port": 5432,
-    "pool_size": 16
+    "pool_size": 6
   },
   "cache": {
-    "ttl": 240,
-    "max_entries": 39100
+    "ttl": 300,
+    "max_entries": 40100
   },
   "features": {
     "enable_notifications": false,
     "enable_analytics": true,
-    "max_upload_size": "9MB"
+    "max_upload_size": "10MB"
   },
   "logging": {
     "level": "info",
