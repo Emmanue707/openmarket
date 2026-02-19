@@ -2,15 +2,15 @@
 # Auto-generated - do not edit manually
 # Updated: 2026-02-19 10:41:54
 
-express@4.27.2
-  resolved: https://registry.npm/express/-/express-4.27.2.tgz
-  integrity: sha512-jgjlryQbExOD4Flzp3e0
+express@4.27.3
+  resolved: https://registry.npm/express/-/express-4.27.3.tgz
+  integrity: sha512-u1G7gsl8f2mFxvUv8VUF
 
 lodash@4.17.25
   resolved: https://registry.npm/lodash/-/lodash-4.17.25.tgz
 
-pg@8.11.2
-  resolved: https://registry.npm/pg/-/pg-8.11.2.tgz
+pg@8.11.0
+  resolved: https://registry.npm/pg/-/pg-8.11.0.tgz
 
-redis@4.6.2
-  resolved: https://registry.npm/redis/-/redis-4.6.2.tgz
+redis@4.7.3
+  resolved: https://registry.npm/redis/-/redis-4.7.3.tgz
