@@ -1,14 +1,14 @@
-# API Routes - v468.5
+# API Routes - v478.5
 
-GET     /api/v468/users
-POST    /api/v468/users
-GET     /api/v468/users/:id
-PUT     /api/v468/users/:id
-DELETE  /api/v468/users/:id
-GET     /api/v468/users/:id/activity
-POST    /api/v468/auth/login
-POST    /api/v468/auth/logout
-GET     /api/v468/reports
-POST    /api/v468/reports/export
-GET     /api/v468/analytics/dashboard
-GET     /api/v468/search?q=&limit=28
+GET     /api/v478/users
+POST    /api/v478/users
+GET     /api/v478/users/:id
+PUT     /api/v478/users/:id
+DELETE  /api/v478/users/:id
+GET     /api/v478/users/:id/activity
+POST    /api/v478/auth/login
+POST    /api/v478/auth/logout
+GET     /api/v478/reports
+POST    /api/v478/reports/export
+GET     /api/v478/analytics/dashboard
+GET     /api/v478/search?q=&limit=38
