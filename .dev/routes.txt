@@ -1,14 +1,3 @@
-# API Routes - v498.5
-
-GET     /api/v498/users
-POST    /api/v498/users
-GET     /api/v498/users/:id
-PUT     /api/v498/users/:id
-DELETE  /api/v498/users/:id
-GET     /api/v498/users/:id/activity
-POST    /api/v498/auth/login
-POST    /api/v498/auth/logout
-GET     /api/v498/reports
-POST    /api/v498/reports/export
-GET     /api/v498/analytics/dashboard
-GET     /api/v498/search?q=&limit=58
+# Migrated to main project structure - 2026-02-19 10:36:36
+# This file is no longer needed
+# See commit 0008 for migration details
