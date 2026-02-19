@@ -1,15 +1,3 @@
-# TODO
-
-## Priority: High
-- [ ] Implement feature request #1486
-- [ ] Implement feature request #1487
-
-## Priority: Medium
-- [x] Fix issue #11
-- [x] Fix issue #12
-- [x] Fix issue #13
-- [x] Fix issue #14
-
-## Priority: Low
-- [ ] Update documentation for module 495
-- [ ] Clean up deprecated endpoints
+# Migrated to main project structure - 2026-02-19 10:46:14
+# This file is no longer needed
+# See commit 0005 for migration details
