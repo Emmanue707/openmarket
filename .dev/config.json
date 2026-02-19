@@ -1,23 +1,23 @@
 {
-  "version": "191.2.9",
+  "version": "201.3.0",
   "environment": "production",
   "port": 3001,
   "database": {
     "host": "localhost",
     "port": 5432,
-    "pool_size": 16
+    "pool_size": 6
   },
   "cache": {
-    "ttl": 120,
-    "max_entries": 19100
+    "ttl": 180,
+    "max_entries": 20100
   },
   "features": {
     "enable_notifications": false,
     "enable_analytics": true,
-    "max_upload_size": "7MB"
+    "max_upload_size": "8MB"
   },
   "logging": {
-    "level": "info",
+    "level": "debug",
     "format": "json"
   }
 }
