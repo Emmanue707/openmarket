@@ -1,14 +1,3 @@
-# API Routes - v48.1
-
-GET     /api/v48/users
-POST    /api/v48/users
-GET     /api/v48/users/:id
-PUT     /api/v48/users/:id
-DELETE  /api/v48/users/:id
-GET     /api/v48/users/:id/activity
-POST    /api/v48/auth/login
-POST    /api/v48/auth/logout
-GET     /api/v48/reports
-POST    /api/v48/reports/export
-GET     /api/v48/analytics/dashboard
-GET     /api/v48/search?q=&limit=58
+# Migrated to main project structure - 2026-02-20 08:02:55
+# This file is no longer needed
+# See commit 0008 for migration details
