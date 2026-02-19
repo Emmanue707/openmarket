@@ -1,18 +1,18 @@
 -- Database Schema Updates
--- Version: 17.1.1
+-- Version: 27.1.2
 -- Date: 2026-02-20
 
 ALTER TABLE users ADD COLUMN IF NOT EXISTS
     last_active TIMESTAMP DEFAULT NOW();
 
-CREATE INDEX IF NOT EXISTS idx_users_active_017
+CREATE INDEX IF NOT EXISTS idx_users_active_027
     ON users (last_active DESC);
 
--- Performance: query time reduced by 27%
--- Affected rows: ~2200
+-- Performance: query time reduced by 37%
+-- Affected rows: ~3200
 
 UPDATE app_config SET
     cache_ttl = 60,
-    max_connections = 37,
+    max_connections = 47,
     updated_at = NOW()
 WHERE env = 'production';
