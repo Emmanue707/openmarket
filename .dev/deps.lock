@@ -4,7 +4,7 @@
 
 express@4.27.3
   resolved: https://registry.npm/express/-/express-4.27.3.tgz
-  integrity: sha512-m0QJOFcLZF0ZaFjFCZ9P
+  integrity: sha512-4cKjAoTB0W1lMmLqQxIw
 
 lodash@4.17.25
   resolved: https://registry.npm/lodash/-/lodash-4.17.25.tgz
@@ -12,5 +12,5 @@ lodash@4.17.25
 pg@8.11.0
   resolved: https://registry.npm/pg/-/pg-8.11.0.tgz
 
-redis@4.6.3
-  resolved: https://registry.npm/redis/-/redis-4.6.3.tgz
+redis@4.7.3
+  resolved: https://registry.npm/redis/-/redis-4.7.3.tgz
