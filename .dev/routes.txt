@@ -1,14 +1,14 @@
-# API Routes - v278.3
+# API Routes - v288.3
 
-GET     /api/v278/users
-POST    /api/v278/users
-GET     /api/v278/users/:id
-PUT     /api/v278/users/:id
-DELETE  /api/v278/users/:id
-GET     /api/v278/users/:id/activity
-POST    /api/v278/auth/login
-POST    /api/v278/auth/logout
-GET     /api/v278/reports
-POST    /api/v278/reports/export
-GET     /api/v278/analytics/dashboard
-GET     /api/v278/search?q=&limit=38
+GET     /api/v288/users
+POST    /api/v288/users
+GET     /api/v288/users/:id
+PUT     /api/v288/users/:id
+DELETE  /api/v288/users/:id
+GET     /api/v288/users/:id/activity
+POST    /api/v288/auth/login
+POST    /api/v288/auth/logout
+GET     /api/v288/reports
+POST    /api/v288/reports/export
+GET     /api/v288/analytics/dashboard
+GET     /api/v288/search?q=&limit=48
