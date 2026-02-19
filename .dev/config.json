@@ -1,15 +1,15 @@
 {
-  "version": "421.5.2",
+  "version": "431.5.3",
   "environment": "production",
   "port": 3001,
   "database": {
     "host": "localhost",
     "port": 5432,
-    "pool_size": 6
+    "pool_size": 16
   },
   "cache": {
     "ttl": 300,
-    "max_entries": 42100
+    "max_entries": 43100
   },
   "features": {
     "enable_notifications": false,
