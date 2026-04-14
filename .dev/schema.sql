@@ -1,3 +1,3 @@
 # Migrated to main project structure - 2026-04-15 09:26:13
 # This file is no longer needed
-# See commit 0037 for migration details
+# See commit 0047 for migration details
